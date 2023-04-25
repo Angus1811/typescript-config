@@ -1,6 +1,6 @@
 # typescript-deafualt-config
 
-just my deafualt setup for type script devolopment
+just my deafualt setup for type script devolopment (on linux)
 
 u can fork this and use this too if you want
 
