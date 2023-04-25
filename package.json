@@ -1,0 +1,17 @@
+{
+  "name": "web-socket",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch src -e ts --exec 'npm run compile && node src/js/main.js'",
+    "compile": "sudo tsc -p src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
