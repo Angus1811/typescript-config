@@ -12,3 +12,9 @@ or if you want to use my version run
 ## errors
 
 if this fails you might have to create your own "ts" direcotry in the "src folder"
+
+### maintenance
+
+---
+
+this repo is still maintained as of may 14th 2023
