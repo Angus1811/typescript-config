@@ -3,7 +3,7 @@
   "type": "commonjs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "nodemon --watch src -e ts --exec 'npm run compile && node src/js/main.js'",
     "compile": "sudo tsc -p src"
