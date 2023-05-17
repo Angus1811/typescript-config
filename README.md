@@ -1,4 +1,4 @@
-# typescript-deafualt-config
+# typescript-template
 
 just my deafualt setup for type script devolopment (on linux)
 
