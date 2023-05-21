@@ -6,7 +6,7 @@
   "main": "src/js/main.js",
   "scripts": {
     "start": "nodemon --watch src -e ts --exec 'npm run compile && node src/js/main.js'",
-    "compile": "tsc -p src"
+    "compile": "tsc -p src && echo \"complied $(date +\"%H:%M:%S\")\""
   },
   "keywords": [],
   "author": "",
